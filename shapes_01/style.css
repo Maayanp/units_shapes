@@ -14,7 +14,7 @@
   margin: auto;
 }
 
-.hexagon {
+/* .hexagon {
   position: relative;
   width: 100px;
   height: 57.74px;
@@ -34,7 +34,7 @@
 .hexagon:before {
   bottom: 100%;
   border-bottom: 28.87px solid #1adc83;
-}
+} */
 
 .hexagon:after {
   top: 100%;
